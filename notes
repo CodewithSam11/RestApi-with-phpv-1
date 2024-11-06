@@ -1,0 +1,26 @@
+<script></script>
+<!--  
+
+Api examples given 
+
+1-Login with facebook/google            2- courier shipping
+3-map                                   4-sms
+5- booking                              6-chatting
+7- payemnt-gateways                     8- video / images 
+9- weather                              10- Search / like google search
+11- Email
+
+
+///////////////////// Headers for creating the Restful API's ////////////////////
+
+header('Content-Type:application/json');
+
+header('Access-Control-Allow-Methods:PUT');
+
+header('Access-Control-Allow-Origin:*');
+
+siteA.com                   siteB.com
+
+header('Access-Control-Allow-Headers:<header-name   >');
+
+-->
